@@ -1,7 +1,4 @@
-
----
-
-#### ✏️ `FUTURE.md` (possible features or plans):
+## ✏️ `FUTURE.md` (possible features or plans):
 
 ```markdown
 # Future Improvements
